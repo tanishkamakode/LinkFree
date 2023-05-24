@@ -1,0 +1,26 @@
+{
+  "name": "Tanishka Makode",
+  "bio": "Meow meets code, coffee, and books! 🐈💻☕📚",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/tanishka_makode",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/console.log_hello/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/tanishka-makode-62459826a",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://www.github.com/tanishkamakode",
+      "icon": "FaGithub"
+    }
+  ]
+}
